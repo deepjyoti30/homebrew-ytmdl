@@ -7,7 +7,7 @@ class Ytmdl < Formula
   sha256 "da510e8304a2e1f0152be8095ef8d640305621bd5c383166522ab41547e9c970"
   license "MIT"
 
-  depends_on "python@3.8"
+  depends_on "python@3.7"
 
   # Get all dependencies
   depends_on "yt-dlp"
